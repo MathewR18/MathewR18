@@ -1,14 +1,115 @@
 <h1 align="center">Hi 👋, I'm Mathew</h1>
-<h3 align="center">Computer Science student in Canada. Aspiring cybersecurity professional with a strong interest in IT</h3>
 
-- 🔭 I’m currently working on **a Password Strength Checker, a Vulnerability Scanner, and a Basic Firewall Simulator to build foundational IT and cybersecurity skills**
-
-- 🌱 I’m currently learning **Network security, penetration testing, and tools like Wireshark, Nmap, and Linux along with Python and Bash scripting**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mathewrantisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathewrantisi" height="30" width="40" /></a>
+<p align="center">
+  Computer Science student in Canada focused on cybersecurity, IT,
+  and practical AI applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mathewrantisi">LinkedIn</a>
+</p>
+
+## About me
+
+I enjoy understanding how systems work, investigating security issues,
+and building tools that make technical information more useful.
+
+Through personal labs and coursework, I’m developing hands-on skills
+in security monitoring, vulnerability management, IT infrastructure,
+and retrieval-augmented generation (RAG).
+
+- 🔭 Currently working on a **Microsoft Sentinel SOC Lab** and
+  **AI-Powered SOC Alert Triage**
+- 🌱 Deepening my skills in **KQL, detection engineering,
+  incident response, and LLM integration**
+- 🎯 Interested in **security operations, cloud security,
+  IT infrastructure, and applied AI**
+
+## What I'm working on
+
+### 🛡️ Microsoft Sentinel SOC Lab
+
+Building a Windows security monitoring environment with **Azure Arc,
+Azure Monitor Agent, Log Analytics, and Microsoft Sentinel**.
+
+- Collecting Windows Security events and exploring telemetry with KQL
+- Expanding the environment with Active Directory and Sysmon
+- Developing detections for authentication failures,
+  privileged-group changes, and suspicious PowerShell activity
+- Working toward documented investigations, MITRE ATT&CK mappings,
+  and incident-response recommendations
+
+### 🤖 AI-Powered SOC Alert Triage
+
+Developing a **Python-based project** to explore how LLMs can support
+security alert analysis and investigation.
+
+- Exploring integration with Microsoft Sentinel alert data
+- Using AI to summarize alerts and suggest investigation steps
+  and KQL queries
+- Evaluating outputs for accuracy, usefulness,
+  and unsupported conclusions
+- Keeping analyst review central to the triage workflow
+
+## Personal & Academic Projects
+
+### 🔐 [Vulnerability Management Lab](https://github.com/MathewR18/Vulnerability-Management-Lab)
+
+A Windows vulnerability assessment and remediation lab using
+**Nessus Essentials**.
+
+Compared unauthenticated and credentialed scans, investigated findings,
+and documented remediation with before-and-after scan results.
+
+### 🖥️ [Cybersecurity Home Lab](https://github.com/MathewR18/SIEM-Home-Lab-SOC)
+
+A virtualized environment built on **Proxmox VE** for practicing
+offensive and defensive security.
+
+Includes Kali Linux, vulnerable targets, Windows and Ubuntu systems,
+and Active Directory, with documented attack scenarios,
+packet analysis, logging, and system administration.
+
+### 🧠 [Aviation Report RAG — CP423 Course Project](https://github.com/MathewR18/cp423-tsb-rag)
+
+Developed for **CP423: Text Retrieval and Search Engine**.
+
+Built and compared two retrieval-augmented generation (RAG) systems
+over **300 Transportation Safety Board of Canada aviation reports**.
+
+Combined **BM25 and Sentence Transformer retrieval** with
+**Llama 3.2 through Ollama** to generate answers with source citations.
+Evaluated both systems using manually verified questions,
+retrieval metrics, and answer-quality analysis.
+
+## Languages and Tools
+
+**Security & Monitoring:** Microsoft Sentinel · Nessus Essentials ·
+Wireshark · Nmap · Sysmon · Burp Suite
+
+**Systems & Infrastructure:** Windows Server · Active Directory ·
+Linux · Proxmox VE · Azure · Azure Arc · Log Analytics
+
+**Programming, Scripting & Queries:** Python · PowerShell · Bash ·
+KQL · SQL · C · C++ · Java · JavaScript
+
+**Development Tools:** Git · Docker
+
+**AI & Retrieval:** RAG · Ollama · Llama 3.2 · Sentence Transformers ·
+BM25 · Embeddings · Model Evaluation
+
+## Connect with me
+
+Happy to connect with people interested in cybersecurity,
+IT, and applied AI.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mathewrantisi">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Mathew Rantisi on LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
